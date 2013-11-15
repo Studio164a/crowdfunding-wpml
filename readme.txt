@@ -21,3 +21,9 @@ This plugin requires zero configuration. Just install it and you're done.
 * WPML 2.9+
 * Easy Digital Downloads 1.8+
 * Wordpress 3.7+ (will probably work with earlier versions, but support will not be provided for older installations)
+
+**Compatible Themes**
+
+While this theme should work with any theme created with Appthemer Crowdfunding, we have personally tested it with our premium crowdfunding theme:
+
+* [Franklin Crowdfunding Theme](http://themeforest.net/item/franklin-wordpress-crowdfunding-theme/5063650?ref=Studio164a)
