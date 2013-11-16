@@ -1,6 +1,6 @@
 === All-in-one WPML Crowdfunding Campaigns ===
 Contributors: ericdaams
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal@164a.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40164a%2ecom
 Author URI: http://164a.com
 Plugin URI: http://164a.com
 Tags: wpml, multilingual, language, crowdfunding, crowd fund, appthemer, crowd funding, crowdfund
