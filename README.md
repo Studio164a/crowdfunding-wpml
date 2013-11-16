@@ -6,8 +6,11 @@ It works alongside WPML and Appthemer Crowdfunding, ensuring that when you have 
 
 This plugin requires zero configuration. Just install it and you're done.
 
-Compatible Themes
-=================
+## Support ##
+
+If you find any bugs with the plugin, please submit an issue via our Github page.
+
+## Compatible Themes ##
 
 While this theme should work with any theme created with Appthemer Crowdfunding, we have personally tested it with our premium crowdfunding theme:
 
